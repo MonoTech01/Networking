@@ -5,5 +5,7 @@
 For example,
 HP firmwares will be found in this following website: https://networkingsupport.hpe.com/
 
-However, I realized that some people could not find the site when they search HP firmware on google. They usually ended up with this site: 
+However, I realized that some people could not find the site when they search HP firmware on google. They usually ended up with this site: https://www.hpe.com/us/en/home.html
+I figured out the way to get to the correct site from it!
 
+Choose Tab Project -> HPE Aruba Networking 
