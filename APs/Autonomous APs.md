@@ -11,7 +11,8 @@
 # Step 2: Setup
 - Turn off Wifi Adapter
 - Set up an IP address in the same network with the default IP address of an AP
-- Go to the AP's GUI.
+- Go to the AP's GUI
+- Use the default password and username of the AP (Check its back to see the info) to log in the AP's GUI and change a new password for it!
 
 # Step 3: Configuration
 - Go to "Management" -> Enable "Set Controller Address"
