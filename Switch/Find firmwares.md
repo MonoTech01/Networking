@@ -3,6 +3,7 @@
 - In some cases, you have to create an account under your commany's domain to access to an official website of your switch brand.
 
 For example,
+HP firmwares will be found in this following website: https://networkingsupport.hpe.com/
 
-
+However, I realized that some people could not find the site when they search HP firmware on google. They usually ended up with this site: 
 
