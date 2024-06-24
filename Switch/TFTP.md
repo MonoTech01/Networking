@@ -25,6 +25,18 @@ Use your switch to ping tfpt server. Ensure it ping succesfully! If not, turn of
 
 Step 4:
 
-ipconfig /all to find out your device IP where having your TFTP server!
+ipconfig /all to find out your device IP where having your TFTP server! 
+
+In this case Your Device's IP = TFTP server
+
+Copy that IP!
+
+Step 5:
+
+en mode -> config mode -> copy tftp flash TFTP's server address File's name primary/secondary
+
+Step 6: 
+
+Reboot!
 
 
